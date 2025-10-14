@@ -13,7 +13,8 @@ Apesar das preocupações, alguns especialistas veem oportunidades. Na Stanford 
 Fonte: https://www.bbc.com/portuguese/articles/cwypj4qxv90o <br>
 Acesso em 2025/10/14
 
-Este projeto é um exercício prático de revisão dos conceitos fundamentais de programação em Java, com foco em: **Vetores (`Arrays`), Estruturas Condicionais (`if`, `else`, `else if`) e Estruturas de Repetição (`for`, `for-each`).**
+Este projeto é um exercício prático de revisão dos conceitos fundamentais de programação em Java, com foco em: <br>
+**Vetores (`Arrays`), Estruturas Condicionais (`if`, `else`, `else if`) e Estruturas de Repetição (`for`, `for-each`).**
 
 O contexto do exercício é baseado na análise de risco de uma "bolha" econômica, simulando a avaliação de risco feita por um grupo de analistas.
 
