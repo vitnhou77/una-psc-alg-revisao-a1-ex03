@@ -9,7 +9,8 @@ Apesar das preocupações, alguns especialistas veem oportunidades. Na Stanford 
 
 "É muito difícil prever uma bolha. E você não pode afirmar com certeza que estava em uma até que ela tenha estourado", disse.
 </p>
-Fonte: https://www.bbc.com/portuguese/articles/cwypj4qxv90o
+
+Fonte: https://www.bbc.com/portuguese/articles/cwypj4qxv90o <br>
 Acesso em 2025/10/14
 
 Este projeto é um exercício prático de revisão dos conceitos fundamentais de programação em Java, com foco em: **Vetores (`Arrays`), Estruturas Condicionais (`if`, `else`, `else if`) e Estruturas de Repetição (`for`, `for-each`).**
