@@ -1,4 +1,4 @@
-# 🚀 Revisão Java: <br> Análise de Risco Econômico (Vetores, Condicional e Repetição)
+# 🚀 Revisão Java: <br> Análise de Risco Econômico <br> (Vetores, Condicional e Repetição)
 
 ### Por que cada vez mais analistas falam em 'bolha' da inteligência artificial prestes a estourar
 
